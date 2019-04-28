@@ -16,3 +16,5 @@ Button.prototype = {
 
 var btn1 = new Button('Hello !');
 btn1.create();
+var btn2 = new Button('Hello again :) !');
+btn2.create();
